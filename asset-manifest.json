@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/site-oleg-steklo/static/css/main.d743ee44.chunk.css",
+    "main.js": "/site-oleg-steklo/static/js/main.b751a346.chunk.js",
+    "main.js.map": "/site-oleg-steklo/static/js/main.b751a346.chunk.js.map",
+    "runtime-main.js": "/site-oleg-steklo/static/js/runtime-main.04b8a829.js",
+    "runtime-main.js.map": "/site-oleg-steklo/static/js/runtime-main.04b8a829.js.map",
+    "static/css/2.9f2bb942.chunk.css": "/site-oleg-steklo/static/css/2.9f2bb942.chunk.css",
+    "static/js/2.f75050aa.chunk.js": "/site-oleg-steklo/static/js/2.f75050aa.chunk.js",
+    "static/js/2.f75050aa.chunk.js.map": "/site-oleg-steklo/static/js/2.f75050aa.chunk.js.map",
+    "index.html": "/site-oleg-steklo/index.html",
+    "precache-manifest.babcbb5e90901be7d833874928b6ec4f.js": "/site-oleg-steklo/precache-manifest.babcbb5e90901be7d833874928b6ec4f.js",
+    "service-worker.js": "/site-oleg-steklo/service-worker.js",
+    "static/css/2.9f2bb942.chunk.css.map": "/site-oleg-steklo/static/css/2.9f2bb942.chunk.css.map",
+    "static/css/main.d743ee44.chunk.css.map": "/site-oleg-steklo/static/css/main.d743ee44.chunk.css.map",
+    "static/js/2.f75050aa.chunk.js.LICENSE.txt": "/site-oleg-steklo/static/js/2.f75050aa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/site-oleg-steklo/static/media/19516.4070a4de.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04b8a829.js",
+    "static/css/2.9f2bb942.chunk.css",
+    "static/js/2.f75050aa.chunk.js",
+    "static/css/main.d743ee44.chunk.css",
+    "static/js/main.b751a346.chunk.js"
+  ]
+}
