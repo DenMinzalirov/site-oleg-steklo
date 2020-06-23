@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e09c098cdd93e69597da1eb2c86ee624",
+    "revision": "ebc9cc3f704e4c74af2e7bcee57e621e",
     "url": "/site-oleg-steklo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site-oleg-steklo/static/css/2.9f2bb942.chunk.css"
   },
   {
-    "revision": "e1b5fcb15262ad90c5c1",
+    "revision": "3a6c3be0b49a46aad383",
     "url": "/site-oleg-steklo/static/css/main.d743ee44.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site-oleg-steklo/static/js/2.f75050aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1b5fcb15262ad90c5c1",
-    "url": "/site-oleg-steklo/static/js/main.b751a346.chunk.js"
+    "revision": "3a6c3be0b49a46aad383",
+    "url": "/site-oleg-steklo/static/js/main.73d66ed9.chunk.js"
   },
   {
     "revision": "62e312dd1533dd80ffbd",

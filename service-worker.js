@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/site-oleg-steklo/precache-manifest.babcbb5e90901be7d833874928b6ec4f.js"
+  "/site-oleg-steklo/precache-manifest.e556de4093cd423d5abdd0e01a2e8204.js"
 );
 
 self.addEventListener('message', (event) => {
